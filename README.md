@@ -1,4 +1,5 @@
 Dashboard de Entrada e Desconto (Nota Fiscal)
+---
 
 📌 Objetivo
 Relatório desenvolvido para o monitoramento do fluxo de entradas e descontos de notas fiscais, focado na análise da saúde financeira e operacional.
