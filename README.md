@@ -32,3 +32,10 @@ Acompanhar e analisar o comportamento das notas fiscais de entrada, avaliando o 
 ## 📌 Resultado
 Dashboard interativo que oferece uma visão clara do impacto dos descontos sobre o faturamento, permitindo o acompanhamento financeiro e a identificação de padrões e oportunidades de melhoria.
 
+---
+
+## 🖼️ Visual do Dashboard
+*(Imagem do dashboard abaixo)*
+
+
+
