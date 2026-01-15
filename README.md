@@ -1,32 +1,34 @@
-Dashboard de Entrada e Desconto (Nota Fiscal)
----
+# 📊 Dashboard de Entrada e Desconto de Notas Fiscais
 
-📌 Objetivo
-Relatório desenvolvido para o monitoramento do fluxo de entradas e descontos de notas fiscais, focado na análise da saúde financeira e operacional.
+Projeto de **análise de dados** desenvolvido a partir de um **cenário real de negócio**, utilizando **dados anonimizados**, com foco no monitoramento do fluxo de **entradas** e **descontos** de notas fiscais, preservando a lógica operacional e financeira sem expor informações sensíveis.
 
 ---
 
-📊 Indicadores Principais (KPIs)
-Total de Entrada: Volume total das notas fiscais emitidas no período selecionado.
-
-Total de Desconto: Valor acumulado de abatimentos e descontos concedidos.
-
-Proporção de Desconto: Percentual de desconto aplicado em relação ao faturamento total de entrada.
+## 🎯 Objetivo
+Acompanhar e analisar o comportamento das notas fiscais de entrada, avaliando o impacto dos descontos aplicados sobre o faturamento e apoiando a tomada de decisões financeiras e operacionais.
 
 ---
 
-🛠️ Tecnologias e Soluções
-Power BI & DAX: Desenvolvimento de medidas para cálculo de faturamento mensal e funções de inteligência de tempo.
-
-ETL (Power Query): Tratamento de dados brutos e conversão de formatos de data complexos (texto para data).
-
-Visualização: Utilização de gráfico de áreas com eixo duplo para comparação de métricas em escalas distintas.
-
-Filtros Dinâmicos: Segmentação por Filial, Fornecedor, Período e Tipo de Desconto.
+## 📈 Indicadores Principais (KPIs)
+- **Total de Entrada**
+- **Total de Desconto** 
+- **Proporção de Desconto** 
 
 ---
 
-📂 Estrutura dos Dados
-Base de Origem: Dados detalhados de emissão, entrada e valores financeiros.
+## 🛠️ Tecnologias
+- **Power BI e DAX** 
+- **ETL (Power Query)** 
+- **Google Sheets/ Excel**
 
-Privacidade: Informações anonimizadas para fins de demonstração de portfólio.# dashboard-entrada-nota
+---
+
+## 📂 Estrutura dos Dados
+- **Base de Origem:** Dados provenientes de um **ambiente real**, adaptados e anonimizados para fins de demonstração.  
+- **Privacidade:** Todas as informações sensíveis foram removidas ou modificadas, mantendo a **estrutura**, as **métricas** e as **regras de negócio** do cenário original.
+
+---
+
+## 📌 Resultado
+Dashboard interativo que oferece uma visão clara do impacto dos descontos sobre o faturamento, permitindo o acompanhamento financeiro e a identificação de padrões e oportunidades de melhoria.
+
