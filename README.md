@@ -37,5 +37,6 @@ Dashboard interativo que oferece uma visão clara do impacto dos descontos sobre
 ## 🖼️ Visual do Dashboard
 *(Imagem do dashboard abaixo)*
 
+<img width="2000" height="1214" alt="image" src="https://github.com/user-attachments/assets/42da0d1e-3b2a-46de-93ae-734bb1137cf3" />
 
 
